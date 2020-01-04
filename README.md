@@ -10,7 +10,7 @@ This software was compiled for Windows 10, and should need no other dependencies
 The files in this repository are the primary files for the experiment. 
 
 1. Clone or download the files to the directory of your choice
-2. Add the '.dbc' file I emailed to you to the same directory as the revMain.exe file
+2. Add the '.dbc' file I emailed to you to the same directory as the MARVS.exe file
 3. Open revMain.exe, and start your review.
 
 ## Bugs
