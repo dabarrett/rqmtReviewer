@@ -16,6 +16,7 @@ The files in this repository are the primary files for the experiment.
 ## Bugs
 You may experience errors if any of the files in the 'readOnlyFiles' directory are moved/edited. If this happens, re-download the files.
 
+If you have any other technical issues, please email dabarrett@gwu.edu.
 
 
 
