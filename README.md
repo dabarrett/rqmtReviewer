@@ -9,7 +9,7 @@ This software was compiled for Windows 10, and should need no other dependencies
 ## Installation
 The files in this repository are the primary files for the experiment. 
 
-1. Clone or download the files to the directory of your choice
+1. Clone or download the files to the directory of your choice. Note, to download these file use the green button on this webpage. This will download a zip file with all the necessary files. Simply unzip the files to any location. You will run the analysis from this directory.
 2. Add the '.dbc' file I emailed to you to the same directory as the MARVS.exe file
 3. Open revMain.exe, and start your review.
 
